@@ -12,6 +12,6 @@
 <div  align="center" >
 <h2>GitHub Statistics</h3>
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=Kapil0187a&show_icons=true&rank_icon=github&card_width=300&bg_color=-10,ea72ad,faff89&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=false" alt="Kapil Barsker">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Kapil0187&show_icons=true&rank_icon=github&card_width=300&bg_color=-10,ea72ad,faff89&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=false" alt="Kapil Barsker">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Kapil0187&show_icons=true&layout=donut&locale=en&bg_color=30,faff89,ea72ad&title_color=333333&text_color=333333" alt="Kapil Barsker">
 </div>
