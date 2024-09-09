@@ -11,10 +11,11 @@
 <div   >
 <h2>GitHub Statistics</h3>
   <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Kapil0187&theme=default&show_icons=true&hide_border=false&count_private=true" alt="Kapil Barsker">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Kapil0187&theme=default&show_icons=true&hide_border=false&count_private=true" alt="Kapil Barsker">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil0187&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Kapil Barsker">
   </div>
   <div>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil0187&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Kapil Barsker">
+    
   </div>
 </div>
 <div >
