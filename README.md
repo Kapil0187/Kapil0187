@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Ruby on Rails | Backend & Full-Stack Development</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kapil-barsker" target="_blank">
+  <a href="https://www.linkedin.com/in/kapil-barsker-58630920a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kapil%20Barsker-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kapilbarsker2003@gmail.com">
@@ -114,7 +114,7 @@ RSpec • Minitest • Docker • Git • GitHub • GitHub Actions • Linux �
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kapil-barsker" target="_blank">
+  <a href="https://www.linkedin.com/in/kapil-barsker-58630920a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kapil%20Barsker-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kapilbarsker2003@gmail.com">
